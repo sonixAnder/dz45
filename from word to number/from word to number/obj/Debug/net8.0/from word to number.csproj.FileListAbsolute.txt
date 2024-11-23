@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\from word to number\from word to number\bin\Debug\net8.0\from word to number.exe
+C:\Users\SSoni\Desktop\from word to number\from word to number\bin\Debug\net8.0\from word to number.deps.json
+C:\Users\SSoni\Desktop\from word to number\from word to number\bin\Debug\net8.0\from word to number.runtimeconfig.json
+C:\Users\SSoni\Desktop\from word to number\from word to number\bin\Debug\net8.0\from word to number.dll
+C:\Users\SSoni\Desktop\from word to number\from word to number\bin\Debug\net8.0\from word to number.pdb
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\from word to number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\from word to number.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\from word to number.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\from word to number.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\from word to number.dll
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\refint\from word to number.dll
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\from word to number.pdb
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\from word to number.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\from word to number\from word to number\obj\Debug\net8.0\ref\from word to number.dll

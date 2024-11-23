@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\bin\Debug\net8.0\calculator for converting numbers.exe
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\bin\Debug\net8.0\calculator for converting numbers.deps.json
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\bin\Debug\net8.0\calculator for converting numbers.runtimeconfig.json
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\bin\Debug\net8.0\calculator for converting numbers.dll
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\bin\Debug\net8.0\calculator for converting numbers.pdb
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\calculator for converting numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\calculator for converting numbers.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\calculator for converting numbers.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\calculator for converting numbers.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\calculator for converting numbers.dll
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\refint\calculator for converting numbers.dll
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\calculator for converting numbers.pdb
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\calculator for converting numbers.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\calculator for converting numbers\calculator for converting numbers\obj\Debug\net8.0\ref\calculator for converting numbers.dll
